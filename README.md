@@ -3,7 +3,7 @@
 
  👨‍🎓 I’m currently Computer Engineering student(3/4) in Kutahya Dumlupinar University
 
- 🚨 I’m looking for <b>long-term internships or remote working</b>
+ 🚨 I’m looking for <b>long-term internships or remote working opportunities</b>
 
  🌱 I’m currently learning Git, Github, Front-End development
 
