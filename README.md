@@ -9,7 +9,7 @@
 
  📫 How to reach me: emregokgedik2@gmail.com
 
-📌Note:Due to earthquake in Turkey, I'm only open to <b>remote or with housing support on-site</b> working or internships.
+📌 Note: Due to earthquake in Turkey, I'm only open to <b>remote or with housing support on-site</b> working or internships.
 <!--
 **emregokgedik/emregokgedik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
