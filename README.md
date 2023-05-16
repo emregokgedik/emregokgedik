@@ -3,7 +3,7 @@
 
  🚨 I’m looking for <b>long-term internships or remote working opportunities</b>
 
- 💻 I’m currently learning Git, Github, Front-End development
+ 💻 I’m currently learning Front-End development
 
  📫 How to reach me: emregokgedik2@gmail.com
 
