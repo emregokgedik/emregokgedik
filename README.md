@@ -1,7 +1,7 @@
 #  Hi there 👋 I'm Emre
  👨‍🎓 I’m currently a Computer Engineering student(3/4) in Kutahya Dumlupinar University.
  
-✈️👨‍🎓 I'll be studying at the University of Beira Interior (Portugal) during the Fall semester of 2023-2024 (September 2023 to June 2024) as part of the Erasmus study mobility program.
+✈️👨‍🎓 I am studying at the University of Beira Interior in Portugal during this Fall semester (September 2023 - June 2024) as part of Erasmus mobility program.
 
  🚨 I’m looking for <b>long-term internships.</b>
 
