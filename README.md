@@ -3,7 +3,7 @@
  
 ✈️👨‍🎓 I am studying at the University of Beira Interior in Portugal during this Fall semester (September 2023 - June 2024) as part of Erasmus mobility program.
 
- 🚨 I’m looking for <b>long-term internships.</b>
+ 🚨 I’m looking for <b>long-term internships(30-work-days).</b>
 
  💻 Selected for the 6-month Software Development (Front-end) Course for earthquake victims organized in collaboration with Patika and Kodluyoruz, and currently continuing.
 
