@@ -1,7 +1,7 @@
 #  Hi there 👋 I'm Emre
  👨‍🎓 I’m currently a Computer Engineering student(4/4) in Kutahya Dumlupinar University.
  
-✈️👨‍🎓 I had stuied at the University of Beira Interior in Portugal during Fall semester 23/24 as part of Erasmus mobility program.
+ ✈️ I had stuied at the University of Beira Interior in Portugal during Fall semester 23/24 as part of Erasmus mobility program.
 
  🚨 I’m looking for <b>long-term internships(30-work-days).</b>
 
