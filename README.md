@@ -1,11 +1,8 @@
 #  Hi there 👋 I'm Emre
- 👨‍🎓 I’m currently studying Computer Engineering(4/4) in Kutahya Dumlupinar University. I have classes only online, so I am available to move anywhere in Turkey in case of an internship or job.
- 
- ✈️ I had stuied at the University of Beira Interior in Portugal during Fall semester 23/24 as part of Erasmus mobility program.
 
- 🚨 I’m looking for <b>long-term internships(30-work-days).</b>
+ 🚨 Looking for mandatory internship (30+30 workdays) in Turkey.
 
- 📫 How to reach me: emregokgedik2@gmail.com
+ 📫 emregokgedik2@gmail.com
 
 
 ## 🌐 Socials:
