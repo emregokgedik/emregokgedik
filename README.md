@@ -1,6 +1,8 @@
 #  Hi there 👋 I'm Emre
 
- 🚨 Looking for mandatory internship (30+30 workdays) in Turkey.
+ Currently developing C++, Arduino projects, strong interest in robotics.
+
+ 
 
  📫 emregokgedik2@gmail.com
 
