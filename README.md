@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emre</h1>
-<h3 align="center">C++ developer (strong interest in robotics) from Turkey</h3>
+<h3 align="center">A developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emregokgedik&label=Profile%20views&color=0e75b6&style=flat" alt="emregokgedik" /> </p>
 
